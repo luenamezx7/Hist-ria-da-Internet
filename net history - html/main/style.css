@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: black;
+    background-color:antiquewhite;
+
+}
+
+
+body {
+    max-width: fit-content;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+h1 {
+    font-size: 50px;
+    font-family: 'Bacasime' sans-serif;
+    letter-spacing: 0.10em;
+}
+
+hr {
+    background-color: rgb(126, 118, 109); 
+    height: 2px;
+    border: 0;
+    
+}
+
